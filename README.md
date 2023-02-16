@@ -1,0 +1,1 @@
+This repository exists for me to test netlify and its static website deploying capabilities.
